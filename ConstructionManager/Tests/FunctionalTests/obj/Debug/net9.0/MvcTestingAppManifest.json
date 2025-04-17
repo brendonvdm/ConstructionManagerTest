@@ -1,5 +1,0 @@
-{
-  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Test\\ConstructionManager\\Src\\Core\\Application",
-  "Infrastructure.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence",
-  "WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi"
-}

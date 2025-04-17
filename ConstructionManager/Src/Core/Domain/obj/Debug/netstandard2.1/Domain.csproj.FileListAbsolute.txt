@@ -1,9 +1,0 @@
-C:\Test\ConstructionManager\Src\Core\Domain\bin\Debug\netstandard2.1\Domain.deps.json
-C:\Test\ConstructionManager\Src\Core\Domain\bin\Debug\netstandard2.1\Domain.dll
-C:\Test\ConstructionManager\Src\Core\Domain\bin\Debug\netstandard2.1\Domain.pdb
-C:\Test\ConstructionManager\Src\Core\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Test\ConstructionManager\Src\Core\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
-C:\Test\ConstructionManager\Src\Core\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
-C:\Test\ConstructionManager\Src\Core\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
-C:\Test\ConstructionManager\Src\Core\Domain\obj\Debug\netstandard2.1\Domain.dll
-C:\Test\ConstructionManager\Src\Core\Domain\obj\Debug\netstandard2.1\Domain.pdb
