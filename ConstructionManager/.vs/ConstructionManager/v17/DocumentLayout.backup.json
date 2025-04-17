@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Test\\ConstructionManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|c:\\test\\constructionmanager\\src\\presentation\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|solutionrelative:src\\presentation\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|c:\\test\\constructionmanager\\src\\presentation\\webapi\\infrastructure\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|solutionrelative:src\\presentation\\webapi\\infrastructure\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|c:\\test\\constructionmanager\\src\\presentation\\webapi\\infrastructure\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|solutionrelative:src\\presentation\\webapi\\infrastructure\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|c:\\test\\constructionmanager\\src\\presentation\\webapi\\infrastructure\\extensions\\localizationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|solutionrelative:src\\presentation\\webapi\\infrastructure\\extensions\\localizationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|c:\\test\\constructionmanager\\src\\presentation\\webapi\\infrastructure\\extensions\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337659B1-DD08-499A-A74F-F727DB6D34AE}|Src\\Presentation\\WebApi\\WebApi.csproj|solutionrelative:src\\presentation\\webapi\\infrastructure\\extensions\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\migrations\\00000000000000_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\migrations\\00000000000000_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\test\\constructionmanager\\src\\infrastructure\\infrastructure.persistence\\configurations\\projecttaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90BCB4-A48F-4F42-A2B4-9B4EE38240E8}|Src\\Infrastructure\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:src\\infrastructure\\infrastructure.persistence\\configurations\\projecttaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFA12BA-E59D-4E3F-A540-C00B707E7145}|Src\\Core\\Domain\\Domain.csproj|c:\\test\\constructionmanager\\src\\core\\domain\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFA12BA-E59D-4E3F-A540-C00B707E7145}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\projects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFA12BA-E59D-4E3F-A540-C00B707E7145}|Src\\Core\\Domain\\Domain.csproj|c:\\test\\constructionmanager\\src\\core\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFA12BA-E59D-4E3F-A540-C00B707E7145}|Src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|c:\\test\\constructionmanager\\src\\core\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|c:\\test\\constructionmanager\\src\\core\\application\\wrappers\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\wrappers\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|c:\\test\\constructionmanager\\src\\core\\application\\wrappers\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\wrappers\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|c:\\test\\constructionmanager\\src\\core\\application\\wrappers\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A29AFAD-C9D6-48C6-B503-E67746242777}|Src\\Core\\Application\\Application.csproj|solutionrelative:src\\core\\application\\wrappers\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebApi\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebApi\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:43:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:43:05.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalizationExtensions.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\LocalizationExtensions.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\LocalizationExtensions.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\LocalizationExtensions.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\LocalizationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:43:04.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorsExtensions.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\CorsExtensions.cs",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\CorsExtensions.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\CorsExtensions.cs",
+              "RelativeToolTip": "Src\\Presentation\\WebApi\\Infrastructure\\Extensions\\CorsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:42:53.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApi",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "Src\\Presentation\\WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Presentation\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "Src\\Presentation\\WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T06:42:39.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:42:35.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:40:32.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:40:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "00000000000000_Init.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\00000000000000_Init.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\00000000000000_Init.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\00000000000000_Init.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\Migrations\\00000000000000_Init.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:40:12.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectTaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectTaskConfiguration.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectTaskConfiguration.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectTaskConfiguration.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectTaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectConfiguration.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "Src\\Infrastructure\\Infrastructure.Persistence\\Configurations\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:54.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Core\\Domain\\Projects\\Project.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Projects\\Project.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Core\\Domain\\Projects\\Project.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Projects\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:07.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\Wrappers\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Wrappers\\ErrorCode.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\Wrappers\\ErrorCode.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Wrappers\\ErrorCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:05.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\Wrappers\\Error.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Wrappers\\Error.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\Wrappers\\Error.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Wrappers\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:04.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\Wrappers\\BaseResult.cs",
+              "RelativeDocumentMoniker": "Src\\Core\\Application\\Wrappers\\BaseResult.cs",
+              "ToolTip": "C:\\Test\\ConstructionManager\\Src\\Core\\Application\\Wrappers\\BaseResult.cs",
+              "RelativeToolTip": "Src\\Core\\Application\\Wrappers\\BaseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:39:03.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

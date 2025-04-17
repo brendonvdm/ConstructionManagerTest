@@ -1,0 +1,17 @@
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Infrastructure.Persistence.deps.json
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Infrastructure.Persistence.dll
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Infrastructure.Persistence.pdb
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Application.dll
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Domain.dll
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Application.pdb
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\bin\Debug\net9.0\Domain.pdb
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.AssemblyInfo.cs
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastr.56C47081.Up2Date
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.dll
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\refint\Infrastructure.Persistence.dll
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.pdb
+C:\Test\ConstructionManager\Src\Infrastructure\Infrastructure.Persistence\obj\Debug\net9.0\ref\Infrastructure.Persistence.dll

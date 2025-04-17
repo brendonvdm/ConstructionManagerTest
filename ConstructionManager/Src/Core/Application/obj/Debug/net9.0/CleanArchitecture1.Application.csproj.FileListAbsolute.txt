@@ -1,0 +1,15 @@
+C:\Test\ConstructionManager\Src\Core\Application\bin\Debug\net9.0\Application.deps.json
+C:\Test\ConstructionManager\Src\Core\Application\bin\Debug\net9.0\Application.dll
+C:\Test\ConstructionManager\Src\Core\Application\bin\Debug\net9.0\Application.pdb
+C:\Test\ConstructionManager\Src\Core\Application\bin\Debug\net9.0\Domain.dll
+C:\Test\ConstructionManager\Src\Core\Application\bin\Debug\net9.0\Domain.pdb
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\CleanArc.2CD07CF6.Up2Date
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.dll
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\Application.pdb
+C:\Test\ConstructionManager\Src\Core\Application\obj\Debug\net9.0\ref\Application.dll
