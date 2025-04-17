@@ -1,0 +1,18 @@
+{
+    "entityframework.project": "Src\\Presentation\\WebApi",
+    "entityframework.startupProject": "Src\\Presentation\\WebApi",
+    "files.exclude": {
+        "Src/Infrastructure/obj": true,
+        "Src/Infrastructure/Infrastructure.Persistence/bin": true,
+        "Src/Infrastructure/Infrastructure.Persistence/obj": true,
+        "Src/Presentation/WebApi/bin": true,
+        "Src/Presentation/WebApi/obj": true,
+        "Src/Core/Application/bin": true,
+        "Src/Core/Application/obj": true,
+        "Src/Core/Domain/bin": true,
+        "Src/Core/Domain/obj": true,
+        "obj": true,
+        ".vscode": true,
+        ".vs": true
+    }
+}
